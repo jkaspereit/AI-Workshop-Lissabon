@@ -1,4 +1,4 @@
-# 🚀 Quick Start Challenge 1
+# 🚀 Quick Start Challenges
 
 ## Get Up and Running in 5 Minutes!
 
@@ -27,7 +27,7 @@ This will open Jupyter in your web browser.
 
 ### Step 3: Open the Notebook (10 seconds)
 
-Click on `digit_recognition_workshop.ipynb` in the Jupyter interface.
+Click on `01)digit_recognition_workshop.ipynb` for example, in the Jupyter interface.
 
 ### Step 4: Run the Workshop! (5 minutes)
 
